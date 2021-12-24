@@ -1,8 +1,8 @@
-![](README.cover.jpg)
+![](README.cover2.jpg)
 
 ℹ️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/)
 
-# Dev Advent Calendar 🎅 Puzzle 23 - Christmas Carols 🎄
+# Dev Advent Calendar 🎅 Puzzle 24 - Christmas Carols 🎄📜
 
 The _Christmas Spirit_ of developers all over the world has gone down, because they pushed to production on a Friday.
 
