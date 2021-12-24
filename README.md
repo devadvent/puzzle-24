@@ -2,7 +2,7 @@
 
 ℹ️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/)
 
-# Dev Advent Calendar 🎅 Puzzle 24 - Christmas Carols 🎄📜
+# Dev Advent Calendar 🎅 Puzzle 24 - Christmas Spirit ✨
 
 The _Christmas Spirit_ of developers all over the world has gone down, because they pushed to production on a Friday.
 
@@ -25,7 +25,7 @@ Check out the [contributing guide](https://github.com/devadvent/readme/blob/main
 
 In short:
 
--   ✨ Create your repository by [acceping the assignment](https://classroom.github.com/a/Art5BMTs) using the participation link
+-   ✨ Create your repository by [acceping the assignment](https://classroom.github.com/a/xjwGT_if) using the participation link
 -   🧩 Solve the puzzle
 -   🐦 Add your Twitter handle to `twitter.js`
 -   🤖 Test your solution
@@ -34,7 +34,7 @@ In short:
 ## 🔗 Participation link
 
 In order to participate, you need to enter the following link and accept the assignment:
-[https://classroom.github.com/a/Art5BMTs](https://classroom.github.com/a/Art5BMTs)
+[https://classroom.github.com/a/xjwGT_if](https://classroom.github.com/a/xjwGT_if)
 
 ## 💻 Use this project
 
@@ -80,8 +80,4 @@ or
 
 ```bash
 npm test
-```
-
-```
-
 ```
